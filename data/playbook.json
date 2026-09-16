@@ -1,0 +1,35 @@
+{
+  "business_name": "Northbridge Web Studio",
+  "business_type": "Custom web and mobile development studio",
+  "target_customers": "Small and mid-sized service businesses in North America and MENA",
+  "services": [
+    "Custom business websites",
+    "Internal workflow and operations tools",
+    "Customer booking and lead management systems",
+    "Mobile applications"
+  ],
+  "pricing": {
+    "business_websites": "$3,000-$7,500",
+    "workflow_tools": "$7,500-$20,000",
+    "mobile_applications": "$15,000-$40,000"
+  },
+  "case_studies": [
+    {
+      "client": "Regional HVAC company",
+      "result": "Replaced manual booking coordination with a centralized booking workflow and reduced administrative back-and-forth."
+    },
+    {
+      "client": "Professional services firm",
+      "result": "Built an internal lead management tool that gave the team one place to track inbound opportunities."
+    }
+  ],
+  "tone": "Professional, concise, helpful, and conversational",
+  "call_to_action": "Invite the prospect to a short discovery call to understand their requirements before giving a more precise estimate.",
+  "rules": [
+    "Only mention services, pricing, and case studies contained in this playbook.",
+    "Do not invent features, prices, clients, results, guarantees, or delivery timelines.",
+    "Do not promise a final price before understanding the requirements.",
+    "Personalize the response using the lead's company and message.",
+    "Keep replies concise and focused on moving the conversation forward."
+  ]
+}

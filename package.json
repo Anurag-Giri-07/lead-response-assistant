@@ -1,0 +1,19 @@
+{
+  "name": "lead-response-assistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "@google/genai": "^2.22.0",
+    "dotenv": "^17.4.2",
+    "googleapis": "^181.0.0"
+  }
+}
